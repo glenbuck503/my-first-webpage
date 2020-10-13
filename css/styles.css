@@ -1,15 +1,18 @@
 h1 {
   color: #6c86e6;
   text-align: center;
+  font-weight: 700;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
+  font-weight: 100;
 }
 
 h3 {
   color:#e69b73
+  
 }
 p {
   font-family: sans-serif;
@@ -17,12 +20,21 @@ p {
 
 ul {
   font-size: 20px;
-  line-height: 30px
+  line-height: 70px;
 }
 
 p {
   font-size: 40px;
+  font-weight: 500;
   
+
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 50px;
+  padding: 5px;
+  width: 150px;
 }
 
 
