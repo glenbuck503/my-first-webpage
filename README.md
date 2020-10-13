@@ -6,7 +6,7 @@
 
 ## Description
 
-This is our first exercise for Tuesday at Epicodus. We are learning about README's today.
+This is our first exercise for Tuesday at Epicodus. We are learning about README's today. Quick change.
 
 ## Setup/Installation Requirements
 
