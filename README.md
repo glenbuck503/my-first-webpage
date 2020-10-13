@@ -12,7 +12,7 @@ This is our first exercise for Tuesday at Epicodus. We are learning about README
 
 * Turn on computer
 * Open Terminal or Git Bash dfdfdfsdfsd
-* Navigate to Epicodus folder
+* Navigate to Epicodus folder fsdfsdfsd
 * Open README.md
 
 
