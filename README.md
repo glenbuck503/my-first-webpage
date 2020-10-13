@@ -11,7 +11,7 @@ This is our first exercise for Tuesday at Epicodus. We are learning about README
 ## Setup/Installation Requirements
 
 * Turn on computer
-* Open Terminal or Git Bash
+* Open Terminal or Git Bash dfdfdfsdfsd
 * Navigate to Epicodus folder
 * Open README.md
 
